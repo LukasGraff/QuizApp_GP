@@ -1,0 +1,30 @@
+Frågekategorier:
+
+1. Låt användare välja mellan olika kategorier som historia, geografi, vetenskap, sport, och underhållning.
+Flervalsfrågor:
+
+2. Implementera flervalsfrågor där användare kan välja ett eller flera svar.
+Tidsbegränsade frågor:
+
+3. Ge användarna en tidsgräns för att svara på varje fråga för att öka spänningen.
+Poängsystem:
+
+4. Skapa ett poängsystem där rätt svar ger poäng, och eventuellt ge bonuspoäng för snabba svar.
+Feedback på svar:
+
+5. Ge användarna omedelbar feedback efter varje svar, med förklaringar för rätta svar.
+Frågeserier:
+
+6. Låt användare spela igenom serier av frågor där svårighetsgraden ökar.
+Användargenererade frågor:
+
+7. Låt användare skapa och dela sina egna frågor och quiz med andra.
+Statistik och framsteg:
+
+8. Visa statistik för användarnas prestationer över tid, som genomsnittlig poäng och mest förbättrade områden.
+Multiplayer-läge:
+
+9. Implementera ett multiplayer-läge där användare kan tävla mot vänner i realtid.
+Belöningssystem:
+
+10. Inför ett belöningssystem där användare kan låsa upp prestationer, virtuella medaljer eller nivåer baserat på deras prestationer.
